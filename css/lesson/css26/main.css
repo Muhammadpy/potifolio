@@ -1,0 +1,14 @@
+.box {
+   
+    background-image: url("./images/4.png.jpg");
+    height: 2000px;
+    background-repeat: repeat-x; 
+    /* rasm faqat x oqi boyicha takrorlanadi yokida y ooqi boyicha takrorlanadi yoki bir marta qo`yiladi 
+    */
+    background-repeat: repeat-y;
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    /* background-size: contain; rams ozi to`laligicha joylashadi. coverda elementga qarab joylashadi 
+    */
+    background-size: 400px  300px;
+}
